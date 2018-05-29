@@ -75,8 +75,8 @@ class Config():
         # Trello Configs
         ###
 
-        TRELLO_APP_KEY = None
-        TRELLO_APP_TOKEN = None 
+        TRELLO_APP_KEY = 'a48f2a307b6fe0b14b8ae96cdab4d0ac'
+        TRELLO_APP_TOKEN = '756828946c843b9134d2e21b8ec61d9c48edd3d2be9fdeca5cf43c729b48a76f'
 
         ###
         # LOG CONFIGS
