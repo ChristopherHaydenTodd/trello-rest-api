@@ -1,0 +1,17 @@
+# Get all Boards
+http://localhost:5000/boards
+
+# Get "To Do List" Board Details
+http://localhost:5000/board/56e1cbce8bde063d47d1db02
+
+# Get Lists on "To Do List" Board
+http://localhost:5000/lists/56e1cbce8bde063d47d1db02
+
+# Get List "To Do" on "To Do List" Board
+http://localhost:5000/list/56e1cbd6f83f7f95f11d7ca7
+
+# Get Cards on "To Do" List on "To Do List" Board
+http://localhost:5000/cards/56e1cbd6f83f7f95f11d7ca7
+
+# Get Card "Fix Basement Roof" on List "To Do" on "To Do" Board
+http://localhost:5000/card/56e22c4b6f7f6f5967b002b2
